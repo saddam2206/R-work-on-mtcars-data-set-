@@ -19,7 +19,7 @@ The focus is on studying the **distribution and relationships between `mpg` (mil
 3. **Heatmaps**
    <img width="446" height="378" alt="Image" src="https://github.com/user-attachments/assets/3f89f671-687a-4120-95fb-82e592830151" />
    <img width="446" height="378" alt="Image" src="https://github.com/user-attachments/assets/742f9395-36ac-463c-b3ae-dab7ce187227" />
-   - `mpg` vs selected variables (`hp`, `drat`, `wt`, `qsec`, `vs`, `am`, `gear`, `carb`)
+   <img width="446" height="378" alt="Image" src="https://github.com/user-attachments/assets/2f480345-c561-4452-8d1c-f437d079950a" />
 
 4. **Scatterplots**
    - Pairwise scatterplots of `mpg` with other variables.
