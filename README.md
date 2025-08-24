@@ -17,7 +17,7 @@ The focus is on studying the **distribution and relationships between `mpg` (mil
    - Statistical significance tests using `cor.test`.
 
 3. **Heatmaps**
-   - `mpg` vs `cyl`
+   <img width="446" height="378" alt="Image" src="https://github.com/user-attachments/assets/3f89f671-687a-4120-95fb-82e592830151" />
    - `mpg` vs `disp`
    - `mpg` vs selected variables (`hp`, `drat`, `wt`, `qsec`, `vs`, `am`, `gear`, `carb`)
 
