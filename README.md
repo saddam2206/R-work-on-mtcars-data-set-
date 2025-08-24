@@ -22,8 +22,8 @@ The focus is on studying the **distribution and relationships between `mpg` (mil
    <img width="446" height="378" alt="Image" src="https://github.com/user-attachments/assets/2f480345-c561-4452-8d1c-f437d079950a" />
 
 4. **Scatterplots**
-   <img width="446" height="335" alt="Image" src="https://github.com/user-attachments/assets/97434b02-2950-4251-b36a-7626027ae8ef" />
-   - Arranged in a grid for easy comparison.
+<img width="446" height="335" alt="Image" src="https://github.com/user-attachments/assets/97434b02-2950-4251-b36a-7626027ae8ef" />
+  
 
 ---
 
